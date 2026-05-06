@@ -1,0 +1,13 @@
+Para abrir o site:
+
+1. Extraia o ZIP.
+2. Abra o arquivo index.html que fica na pasta extraida.
+3. Mantenha a pasta assets junto do index.html.
+
+Se preferir rodar como site local, abra um terminal na pasta e use:
+
+python -m http.server 4173
+
+Depois acesse:
+
+http://127.0.0.1:4173/

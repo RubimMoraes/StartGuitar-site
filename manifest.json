@@ -1,0 +1,16 @@
+{
+  "name": "StartGuitar",
+  "short_name": "StartGuitar",
+  "description": "Uma plataforma estruturada e envolvente para guiar iniciantes do zero até suas primeiras músicas no violão.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#171411",
+  "theme_color": "#d98f33",
+  "icons": [
+    {
+      "src": "https://media.base44.com/images/public/69fa7005af5db47898df3fec/5bda1c27b_logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
